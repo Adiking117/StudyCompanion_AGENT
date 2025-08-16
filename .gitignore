@@ -1,0 +1,5 @@
+/__pycache__
+/chroma_persist
+/PDFAgent/chroma_persist
+.env
+.venv
