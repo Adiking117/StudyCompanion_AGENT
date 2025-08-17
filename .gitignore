@@ -3,3 +3,4 @@
 /PDFAgent/chroma_persist
 .env
 .venv
+/PDFAgent/ReActApproachPDFAgent/__pycache__

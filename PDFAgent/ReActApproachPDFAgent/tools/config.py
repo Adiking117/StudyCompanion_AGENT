@@ -7,7 +7,7 @@ load_dotenv()
 
 os.environ['HF_HOME'] = 'C:/Users/Aditya/Desktop/Langchain/Langchain_Models/LOCALINSTALLEDMODELS'
 
-chat_model=ChatGroq(model="llama3-8b-8192")
+chat_model=ChatGroq(model="meta-llama/llama-4-scout-17b-16e-instruct")
 
 # Embeddings
 embedding_model = HuggingFaceEmbeddings(model_name='sentence-transformers/all-MiniLM-L6-v2')
