@@ -4,3 +4,4 @@
 .env
 .venv
 /PDFAgent/ReActApproachPDFAgent/__pycache__
+/PDFAgent/WorkflowApproachPDFAgent/chroma_persist
