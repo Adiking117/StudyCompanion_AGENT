@@ -9,3 +9,5 @@ python-dotenv
 pypdf
 langchain-groq
 langgraph
+youtube_transcript_api
+graphviz
