@@ -1,7 +1,5 @@
-/__pycache__
-/chroma_persist
-/PDFAgent/chroma_persist
+**/__pycache__/
+**/chroma_persist
 .env
 .venv
-/PDFAgent/ReActApproachPDFAgent/__pycache__
-/PDFAgent/WorkflowApproachPDFAgent/chroma_persist
+**/workflows.db
