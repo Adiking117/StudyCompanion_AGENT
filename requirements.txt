@@ -15,3 +15,4 @@ fastapi
 sqlalchemy
 uvicorn
 langgraph-checkpoint-sqlite
+kafka

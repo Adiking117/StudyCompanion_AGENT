@@ -3,3 +3,4 @@
 .env
 .venv
 **/workflows.db
+YoutubeAgent/fastapi_blog_workflow/
